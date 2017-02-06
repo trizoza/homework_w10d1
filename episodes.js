@@ -89,7 +89,7 @@ console.log('the murderer is ', murderer);
 
 //////////////////// MY LAST DRINK ////////////////////////////
 
-var drink =  "beer"
+var drink =  "beer";
 
 var stillAtCodeClan = function() {
   drink = 'borovicka';
